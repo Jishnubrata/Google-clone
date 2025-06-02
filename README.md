@@ -48,19 +48,6 @@ In your JS file or script section, add:
 const apiKey = 'YOUR_API_KEY';
 const searchEngineId = 'YOUR_SEARCH_ENGINE_ID';
 ```
-📸 Screenshots
-
-DESKSTOP VIEW -
-https://github.com/Jishnubrata/Google-clone/blob/main/google-homepage-clone/assets/desktop-view-1.png
-https://github.com/Jishnubrata/Google-clone/blob/main/google-homepage-clone/assets/desktop-view-2.png
-
-MOBILE VIEW -
-https://github.com/Jishnubrata/Google-clone/blob/main/google-homepage-clone/assets/mobile-view-1.PNG
-
-
-
-
-
 
 
 📄 License
