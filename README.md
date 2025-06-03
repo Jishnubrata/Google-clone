@@ -1,5 +1,3 @@
-# Google-clone
-A homepage of "google.lk" was designed to practice and develop my web design skills. This webpage was developed with pure HTML5 and CSS3. CSS media queries are used to make the webpage responsive. Search results for the entered inputs are provided to the user by a Google programmable search engine.
 
 🌐 Google Clone
 A fully responsive and minimalistic clone of Google.lk, built using HTML5 and CSS3. This project aims to replicate the Google homepage experience, complete with functional search powered by Google Programmable Search Engine. Perfect for practicing frontend web development!
